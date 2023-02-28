@@ -1,0 +1,79 @@
+/* Write your CSS here */
+.background {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+
+.btn1 {
+  background-color: #ffffff;
+  border-style: none;
+  color: #dd1264;
+  font-family: 'Roboto';
+  font-size: 12px;
+  height: 40px;
+  width: 120px;
+  border-radius: 5px;
+}
+
+.btn2 {
+  background-color: #ffffff;
+  border-style: none;
+  color: #dd1264;
+  font-family: 'Roboto';
+  font-size: 12px;
+  height: 40px;
+  width: 120px;
+  border-radius: 5px;
+}
+
+.name1 {
+  background-color: #fddddb;
+  border-style: none;
+  height: 100px;
+  width: 150px;
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 30px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.name2 {
+  background-color: #fddddb;
+  border-style: none;
+  height: 100px;
+  width: 150px;
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 30px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sub-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-container1 {
+  margin-right: 50px;
+}
+
+.btn-container2 {
+  margin-left: 50px;
+}
